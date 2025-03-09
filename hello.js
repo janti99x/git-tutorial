@@ -4,3 +4,5 @@ const greetings = (name) => {
 };
 
 greetings("Jonty");
+
+const add = (a, b) => a + b;
